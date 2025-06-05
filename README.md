@@ -1,2 +1,2 @@
-# Rookies26-Ai
+ test 추가# Rookies26-Ai
 git, github 학습용 저장소
